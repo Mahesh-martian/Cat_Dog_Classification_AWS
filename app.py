@@ -3,7 +3,7 @@ import os
 from flask_cors import CORS, cross_origin
 from com_in_ineuron_ai_utils.utils import decodeImage
 from prediction.predict import DogCat
-# Author Mahesh
+# Author Mahesh kumar R
 os.putenv('LANG', 'en_US.UTF-8')
 os.putenv('LC_ALL', 'en_US.UTF-8')
 
