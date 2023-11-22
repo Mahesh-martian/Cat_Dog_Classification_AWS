@@ -39,8 +39,6 @@ if __name__ == "__main__":
 
 
 
-# Author: Mahesh kumar
 
-
-# Author email: maheshkumar@gmail.com 
-
+# Author email: maheshkumar@gmail.com
+# Author name: Mahesh
