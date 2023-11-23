@@ -40,6 +40,5 @@ if __name__ == "__main__":
 
 
 
-# Author email: maheshkumar@gmail.com
-# Author name: Mahesh
-# Author name email: maheshkumar@gmail.com
+# Author: Mahesh
+# AuthorEmail: mahesh@gmail.com
